@@ -1,3 +1,3 @@
 # SKit-Team-Jor_Sage
 Team Jor_Sage | SKiT
-Unfinished Product
+the demo video is named "video-1606624996.mp4" 
