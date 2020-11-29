@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button37"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:backgroundTint="#ffffff"
+        app:icon="@drawable/back"
+        app:iconTint="#000000" />
+
+    <Button
+        android:id="@+id/button28"
+        android:layout_width="189dp"
+        android:layout_height="69dp"
+        android:text="Profile"
+        app:backgroundTint="#18CFE8"
+        app:icon="@drawable/profile"
+        tools:layout_editor_absoluteX="93dp"
+        tools:layout_editor_absoluteY="124dp" />
+
+    <Button
+        android:id="@+id/button29"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Address Book"
+        app:backgroundTint="#18CFE8"
+        app:icon="@drawable/home"
+        app:iconTint="#FFFFFF"
+        tools:layout_editor_absoluteX="86dp"
+        tools:layout_editor_absoluteY="215dp" />
+
+    <Button
+        android:id="@+id/button30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Privacy Protection and Policy"
+        app:backgroundTint="#18CFE8"
+        tools:layout_editor_absoluteX="58dp"
+        tools:layout_editor_absoluteY="288dp" />
+
+    <Button
+        android:id="@+id/button31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="messages"
+        app:backgroundTint="#18CFE8"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="350dp" />
+
+    <Button
+        android:id="@+id/button32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About.."
+        app:backgroundTint="#18CFE8"
+        tools:layout_editor_absoluteX="160dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="423dp"
+        android:layout_height="59dp"
+        android:background="@drawable/navigation_bar"
+        tools:layout_editor_absoluteX="-6dp"
+        tools:layout_editor_absoluteY="673dp" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="423dp"
+        android:layout_height="59dp"
+        android:background="@drawable/navigation_bar"
+        tools:layout_editor_absoluteX="-6dp"
+        tools:layout_editor_absoluteY="673dp" />
+
+    <Button
+        android:id="@+id/button33"
+        android:layout_width="66dp"
+        android:layout_height="53dp"
+        app:backgroundTint="#18CFE8"
+        app:icon="@drawable/settings"
+        app:iconTint="#F927BE"
+        tools:layout_editor_absoluteX="329dp"
+        tools:layout_editor_absoluteY="678dp" />
+
+    <Button
+        android:id="@+id/button34"
+        android:layout_width="66dp"
+        android:layout_height="53dp"
+        app:backgroundTint="#18CFE8"
+        app:icon="@drawable/cart"
+        app:iconTint="#ffff"
+        tools:layout_editor_absoluteX="235dp"
+        tools:layout_editor_absoluteY="679dp" />
+
+    <Button
+        android:id="@+id/button35"
+        android:layout_width="66dp"
+        android:layout_height="53dp"
+        app:backgroundTint="#18CFE8"
+        app:icon="@drawable/wallet"
+        app:iconTint="#ffffff"
+        tools:layout_editor_absoluteX="120dp"
+        tools:layout_editor_absoluteY="678dp" />
+
+    <Button
+        android:id="@+id/button36"
+        android:layout_width="66dp"
+        android:layout_height="53dp"
+        app:backgroundTint="#18CFE8"
+        app:icon="@drawable/home"
+        app:iconTint="#FFFFFF"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="678dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
